@@ -1,0 +1,184 @@
+{
+  "repository": "dotslashsimran/simcraft",
+  "commit": "58224d131814572224537fb516b8c5d33dd5fa67",
+  "source_path": "skills/video/perspective-illusion",
+  "extracted_on": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "files": [
+    {
+      "path": "SKILL.md",
+      "source_path": "skills/video/perspective-illusion/SKILL.md",
+      "git_blob_sha": "0dbc5da634c6497740d518cb808b390151fb085e",
+      "mode": "100644",
+      "size": 14618
+    },
+    {
+      "path": "reference.md",
+      "source_path": "skills/video/perspective-illusion/reference.md",
+      "git_blob_sha": "a831feb96275f2d18725380a59d5a60918e30085",
+      "mode": "100644",
+      "size": 4222
+    },
+    {
+      "path": "scripts/blink_map.py",
+      "source_path": "skills/video/perspective-illusion/scripts/blink_map.py",
+      "git_blob_sha": "b18eaa46bb14b877aad940d04606d45ced2e3dfb",
+      "mode": "100644",
+      "size": 1224
+    },
+    {
+      "path": "templates/cutouts/bottle.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/bottle.png",
+      "git_blob_sha": "6de8331809436a6f228c337f7ee0a14a729bc524",
+      "mode": "100644",
+      "size": 173238
+    },
+    {
+      "path": "templates/cutouts/can.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/can.png",
+      "git_blob_sha": "0af3f73f2d31fd235d6e78595e718ce42de8018b",
+      "mode": "100644",
+      "size": 446277
+    },
+    {
+      "path": "templates/cutouts/cat.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/cat.png",
+      "git_blob_sha": "aaf957c4fcdf0ab485ef6cb86433fb3245b3b3d5",
+      "mode": "100644",
+      "size": 597598
+    },
+    {
+      "path": "templates/cutouts/decora.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/decora.png",
+      "git_blob_sha": "3d62ab6965d4ace96a85fa1a20f855a522329f62",
+      "mode": "100644",
+      "size": 346669
+    },
+    {
+      "path": "templates/cutouts/foxgirl.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/foxgirl.png",
+      "git_blob_sha": "50faf1988d215bcf4817e48fa83a0d24fa9037b1",
+      "mode": "100644",
+      "size": 504818
+    },
+    {
+      "path": "templates/cutouts/idols.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/idols.png",
+      "git_blob_sha": "efdc4d57e8baf012b8c6b68bab2ccb5badf83a7e",
+      "mode": "100644",
+      "size": 332101
+    },
+    {
+      "path": "templates/cutouts/mecha.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/mecha.png",
+      "git_blob_sha": "f73ffd44599d64cda2a175f0a82d99d45ec25434",
+      "mode": "100644",
+      "size": 392999
+    },
+    {
+      "path": "templates/cutouts/nigiri.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/nigiri.png",
+      "git_blob_sha": "475fca6d774dfa21e2969c90f7b862bf0ea0f05f",
+      "mode": "100644",
+      "size": 203733
+    },
+    {
+      "path": "templates/cutouts/onigiri.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/onigiri.png",
+      "git_blob_sha": "45d29b0cc815c26e2d0a2f90fbefd886997fd273",
+      "mode": "100644",
+      "size": 191234
+    },
+    {
+      "path": "templates/cutouts/petals.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/petals.png",
+      "git_blob_sha": "92006cf5fc3ec1692b41a0252a8ba4eb5660ddc5",
+      "mode": "100644",
+      "size": 123838
+    },
+    {
+      "path": "templates/cutouts/salaryman.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/salaryman.png",
+      "git_blob_sha": "d885bbb4ec34d6b232d59cf6945ce6b202367ff7",
+      "mode": "100644",
+      "size": 675366
+    },
+    {
+      "path": "templates/cutouts/sneaker.png",
+      "source_path": "skills/video/perspective-illusion/templates/cutouts/sneaker.png",
+      "git_blob_sha": "6a8e2f21ead9d3a4dbc4612a5d6146f8523f5cb5",
+      "mode": "100644",
+      "size": 218472
+    },
+    {
+      "path": "templates/market.html",
+      "source_path": "skills/video/perspective-illusion/templates/market.html",
+      "git_blob_sha": "9d493685be3b62342e599f43c8081b8b2fde5692",
+      "mode": "100644",
+      "size": 27112
+    },
+    {
+      "path": "templates/market_real.html",
+      "source_path": "skills/video/perspective-illusion/templates/market_real.html",
+      "git_blob_sha": "4e3c57497b6dea235fb2cd944869f69e5486e060",
+      "mode": "100644",
+      "size": 30669
+    },
+    {
+      "path": "templates/render.mjs",
+      "source_path": "skills/video/perspective-illusion/templates/render.mjs",
+      "git_blob_sha": "90e8a762e47261bbf523d6ac3d751f99eea1effc",
+      "mode": "100644",
+      "size": 2450
+    },
+    {
+      "path": "templates/render_fast.mjs",
+      "source_path": "skills/video/perspective-illusion/templates/render_fast.mjs",
+      "git_blob_sha": "45b5401bb2ae3b7060720dbf3d1b5464bac38466",
+      "mode": "100644",
+      "size": 3888
+    },
+    {
+      "path": "templates/render_smooth.mjs",
+      "source_path": "skills/video/perspective-illusion/templates/render_smooth.mjs",
+      "git_blob_sha": "764728dea5728510021d52f06a56a71dfadb951c",
+      "mode": "100644",
+      "size": 3972
+    },
+    {
+      "path": "templates/scramble_night.html",
+      "source_path": "skills/video/perspective-illusion/templates/scramble_night.html",
+      "git_blob_sha": "f40f198286a9cf92e0cbcc7cf76e59eb4e520a57",
+      "mode": "100644",
+      "size": 151840
+    },
+    {
+      "path": "templates/street.html",
+      "source_path": "skills/video/perspective-illusion/templates/street.html",
+      "git_blob_sha": "e04e187558b2039ecf070271c1ab6a32570da3e5",
+      "mode": "100644",
+      "size": 34199
+    },
+    {
+      "path": "templates/street_plus.html",
+      "source_path": "skills/video/perspective-illusion/templates/street_plus.html",
+      "git_blob_sha": "b61775c0660533029fd406df2f340aeda32f8a9e",
+      "mode": "100644",
+      "size": 51604
+    },
+    {
+      "path": "LICENSE",
+      "source_path": "LICENSE",
+      "git_blob_sha": "83866f1aa632430e8b4704274a097dc86c29668a",
+      "mode": "100644",
+      "size": 1072
+    },
+    {
+      "path": "scripts/motion_check.py",
+      "source_path": "skills/video/vox-explainer/scripts/motion_check.py",
+      "git_blob_sha": "5c6c1e96c940e3b2498971858f31f7b2b37fef31",
+      "mode": "100644",
+      "size": 1550
+    }
+  ]
+}
